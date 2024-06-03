@@ -19,8 +19,6 @@ Projeto da unidade 3 de grafos aplicando o algoritmo de Hopcroft-Karp em Python
     
 <li> Cheque o resultado final no arquivo "emparelhamentos.txt"
 
-    sudo apt install make
-
 </ol>
 
 ## Alunos
